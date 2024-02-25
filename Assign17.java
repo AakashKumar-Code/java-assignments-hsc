@@ -57,7 +57,8 @@ public class Assign17 {
 		}
 		System.out.println('\n');
 		int num = numOfElementsAfterRemovingDuplicates(arr, n);
-		System.out.print("Number of elements left After Removing Duplicates: " + num);
+		System.out.print("Number of elements left After Removing Duplicates: ");
+		System.out.print(num);
 		sc.close();
 
 	}
